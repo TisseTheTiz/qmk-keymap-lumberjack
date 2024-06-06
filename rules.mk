@@ -1,0 +1,8 @@
+DYNAMIC_MACRO_ENABLE = no
+KEY_OVERRIDE_ENABLE = yes
+COMBO_ENABLE = yes
+TAP_DANCE_ENABLE = no
+
+TRI_LAYER_ENABLE = yes
+
+SRC += features/achordion.c
